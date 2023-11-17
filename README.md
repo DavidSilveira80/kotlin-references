@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/DavidSilveira80/README-template?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/DavidSilveira80/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/DavidSilveira80/README-template?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/iurecode/README-template?style=for-the-badge)
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/DavidSilveira80/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/DavidSilveira80/README-template?style=for-the-badge)
 
