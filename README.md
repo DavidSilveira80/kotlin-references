@@ -23,8 +23,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Trabalhando com tipos nullable
 - [x] Funções
 - [x] Classes e Objetos
+- [x]  Preparar ambiente para aplicar testes unitários
 - []  Limpar códigos aplicando Clean Code
-- []  Aplicar testes unitários
 - []  Herança entre Classes
 - []  Polimorfismo
 - []  Gerenciamento de exceções
@@ -34,4 +34,8 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - []  Enums
 - []  Recurços avançados da orientação a objetos
 
+## 💻 Pré-requisitos
+
+
+- Você instalou a versão mais recente de `<Kotlin / JUnit5.8.1 / IDE>`
 
