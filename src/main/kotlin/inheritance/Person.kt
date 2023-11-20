@@ -9,6 +9,9 @@ fun main(){
     println(person2)
     println(person1 == person2)
 
+    val person3 = person2.copy(age=30)
+    println(person3)
+
 }
 
 
